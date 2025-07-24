@@ -12,4 +12,4 @@ namespace MvcMovie.Models
 
 } 
 
-// dotnet aspnet-codegenerator controller -name ProductController -m MvcMovie.Models.Product -dc MvcMoivie.Data.ApplicationDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries --databaseProvider sqlite
+//  dotnet aspnet-codegenerator controller -name ProductController -m MvcMovie.Models.Product -dc MvcMovie.Data.ApplicationDbContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries --databaseProvider sqlite
